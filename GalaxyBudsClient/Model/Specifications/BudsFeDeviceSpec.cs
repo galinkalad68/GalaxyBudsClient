@@ -20,6 +20,7 @@ public class BudsFeDeviceSpec : IDeviceSpec
         { Features.GearFitTest, null },
         { Features.FragmentedMessages, null },
         { Features.BixbyWakeup, null },
+        { Features.AmbientExtraLoud, null },
         { Features.AmbientSound, null },
         { Features.Anc, null },
         { Features.AncNoiseReductionLevels, null },
